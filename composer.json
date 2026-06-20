@@ -1,0 +1,21 @@
+{
+	"name": "compono-kit/types-bundle",
+	"description": "Bundle of types, maps and lists",
+	"homepage": "https://github.com/compono-kit/price-bundle",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Benjamin Bruska",
+			"email": "benjamin.bruska@your-coder.de"
+		}
+	],
+	"require": {
+		"php": ">=8.0",
+		"compono-kit/types": "^1.0.0",
+		"compono-kit/maps": "^1.0.0",
+		"compono-kit/lists": "^1.0.0"
+	}
+}
+
