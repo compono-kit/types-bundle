@@ -1,7 +1,6 @@
 {
 	"name": "compono-kit/types-bundle",
 	"description": "Bundle of types, maps and lists",
-	"homepage": "https://github.com/compono-kit/price-bundle",
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"license": "proprietary",
